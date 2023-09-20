@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Greetings! I am a full Professor in the [Computer Science Department](https://cs.wwu.edu), [Western Washington University](https://www.wwu.edu). I completed my Ph.D. in computer science from [Simon Fraser University](https://www.sfu.ca) under the supervision of [Dr. Anoop Sarkar](https://www.cs.sfu.ca/~anoop/). My research broadly falls into natural language processing. My other research work involves ethics education in AI courses and application of eye-tracking data in biometrics. 
+Greetings! I am a Professor in the [Computer Science Department](https://cs.wwu.edu), [Western Washington University](https://www.wwu.edu). I completed my Ph.D. in computer science from [Simon Fraser University](https://www.sfu.ca) under the supervision of [Dr. Anoop Sarkar](https://www.cs.sfu.ca/~anoop/). My research broadly falls into natural language processing. My other research work involves ethics education in AI courses and application of eye-tracking data in biometrics. 
 
 My [curriculum vitae](/files/pdf/CV.pdf). 
 
